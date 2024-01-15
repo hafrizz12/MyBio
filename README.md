@@ -30,7 +30,7 @@ I would like to extend special thanks to:
 ## Developer
 
 - **Hafidz Muhammad Rizky**
-  - GitHub: [HafidzMuhammadRizky](https://github.com/hafidzmrizky)
+  - GitHub: [Hafidz Muhammad Rizky](https://github.com/hafidzmrizky)
 
 Feel free to contribute to the project by submitting issues or pull requests.
 
