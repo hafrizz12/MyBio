@@ -2,6 +2,8 @@
 
 myBio is a simple biodata app developed by Hafidz Muhammad Rizky for a school project. It allows users to input and view basic personal information, including name, address, city, and gender.
 
+
+Hafidz Muhammad Rizky - XI RPL
 ## Features
 
 - **Input Form:** Easily enter your biodata details through a user-friendly input form.
